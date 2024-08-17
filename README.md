@@ -11,3 +11,5 @@
 >https://github.com/weijuan82113/CPP04.git
 ## CPP05
 >https://github.com/weijuan82113/CPP05.git
+## CPP06
+>https://github.com/weijuan82113/CPP06.git
